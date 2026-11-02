@@ -1,0 +1,14 @@
+var name="Pramod";
+
+var firstName="Pramod";
+
+//naming convetions
+//1.camelcase(standard for JS variables and functions)
+let userName="Pramod";;
+let totalPrice=99.99;
+let isLoggedIn=true;
+
+//2.pascalcase(standard for JS Classes and constructors)0
+let UserProfile="PascalCase";
+let ShoppingCart="classname style";
+
