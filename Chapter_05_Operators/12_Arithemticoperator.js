@@ -23,4 +23,6 @@ console.log(10%3);
 //n%2==1 -->odd number  [n%2==0-->even number]
 //exponential operator-->** it will give you power of number
 console.log(2**3);
+
+
  
